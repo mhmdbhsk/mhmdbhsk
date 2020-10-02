@@ -1,6 +1,6 @@
 ## Hi There! I'm [Muhammad Bhaska](https://mhmdbhsk.space) :wave:
 
-#### 👨🏻‍💻 Developer / 🖧 Network Enthusiast / 🐧 Linux Enthusiast / :nail_care: UI Designer
+#### 👨🏻‍💻 Developer / 🖧 Network Enthusiast / 🐧 Linux Enthusiast / :nail_care: UI/UX Enthusiast
 
 - :telescope: I'm currently interning at @kodingworks as a Software Engineer, Frontend.
 - :book: I'm currently learning `React and Flutter`
