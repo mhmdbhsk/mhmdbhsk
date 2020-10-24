@@ -7,4 +7,4 @@
 - :mailbox: Reach out to me directly through [Telegram](https://t.me/mhmdbhsk) or [Mail](mailto:muhammadbhaska0@gmail.com)
 - :boy: He / him
 - 🗺️ Semarang, Indonesia
-- :iphone: Redmi Note 8 / :computer: ThinkPad T440P / ⌨️ Ajazz AK33
+- :iphone: Redmi Note 8 / :computer: ThinkPad T440P + TUF FX505GT (temporary) / ⌨️ Ajazz AK33
