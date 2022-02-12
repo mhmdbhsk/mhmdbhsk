@@ -7,4 +7,4 @@
 * :mailbox: Reach out to me directly through [`Telegram`](https://t.me/mhmdbhsk) or [`Mail`](mailto:muhammadbhaska0@gmail.com)  
 * :boy: He / him  
 * 🗺️ Semarang, Indonesia  
-* :iphone: Poco X3 NFC / :computer: Mi Notebook Pro 15 2018 / ⌨️ GK68XS
+* :iphone: Poco X3 NFC / :computer: Mi Notebook Pro 15 2018 / ⌨️ Keychron Q1
